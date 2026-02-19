@@ -170,5 +170,3 @@ Drone + AI Enthusiast
 
 ---
 
-
-Just tell me 💙
